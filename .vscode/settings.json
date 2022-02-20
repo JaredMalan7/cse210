@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
-        "./seeker/seeker"
+        "./seeker/seeker",
+        "./rfk-incomplete/rfk"
     ]
 }
