@@ -1,6 +1,10 @@
 {
     "python.analysis.extraPaths": [
         "./seeker/seeker",
-        "./rfk-incomplete/rfk"
+        "./rfk-incomplete/rfk",
+        "./rkw/game",
+        "./rkw",
+        "./greed_game",
+        "./snake-incomplete/snake"
     ]
 }
