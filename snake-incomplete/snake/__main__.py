@@ -19,9 +19,8 @@ from game.shared.point import Point
 
 def main():
 
-    # create the cast
     cast = Cast()
-    # cast.add_actor("foods", Food())
+    cast.add_actor("foods", Food())
     x = int(constants.MAX_X / 2)
     y = int(constants.MAX_Y / 2)
     x1 = int(constants.MAX_X / 4)
