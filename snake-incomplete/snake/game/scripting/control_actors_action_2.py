@@ -1,5 +1,5 @@
 import constants
-from game.scripting.action import Action
+#from game.scripting.action import Action
 from game.scripting.control_actors_action import ControlActorsAction
 from game.shared.point import Point
 
